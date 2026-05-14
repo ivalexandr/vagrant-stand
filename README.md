@@ -27,3 +27,7 @@
 ### Destroy machine
 
 `vagrant destroy -f`
+
+### Moodle up into
+
+`http://localhost:8080`
